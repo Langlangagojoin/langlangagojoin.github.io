@@ -32,6 +32,27 @@
 
   
   <url>
+    <loc>https://blog.langlangago.site/tags/%E8%AF%B4%E8%AF%B4/</loc>
+    <lastmod>2020-08-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.langlangago.site/tags/icarus/</loc>
+    <lastmod>2020-08-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.langlangago.site/tags/Hexo/</loc>
+    <lastmod>2020-08-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.langlangago.site/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2020-08-17</lastmod>
     <changefreq>daily</changefreq>
@@ -87,35 +108,7 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://blog.langlangago.site/tags/%E8%AF%B4%E8%AF%B4/</loc>
-    <lastmod>2020-08-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.langlangago.site/tags/icarus/</loc>
-    <lastmod>2020-08-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.langlangago.site/tags/Hexo/</loc>
-    <lastmod>2020-08-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>https://blog.langlangago.site/categories/OI/</loc>
-    <lastmod>2020-08-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>https://blog.langlangago.site/categories/%E6%9D%82%E8%B0%88/</loc>
@@ -125,7 +118,7 @@
   </url>
   
   <url>
-    <loc>https://blog.langlangago.site/categories/OI/%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://blog.langlangago.site/categories/OI/</loc>
     <lastmod>2020-08-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -133,6 +126,13 @@
   
   <url>
     <loc>https://blog.langlangago.site/categories/%E6%9D%82%E8%B0%88/Hexo/</loc>
+    <lastmod>2020-08-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.langlangago.site/categories/OI/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2020-08-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
